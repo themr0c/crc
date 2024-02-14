@@ -6,11 +6,11 @@ To access the internal {ocp} registry, follow these steps.
 
 .Prerequisites
 * {prod} is configured to use the {openshift} preset.
-For more information, see link:{crc-gsg-url}#changing-the-selected-preset_gsg[Changing the selected preset].
+For more information, see xref:changing-the-selected-preset.adoc[].
 * A running {prod} instance.
-For more information, see link:{crc-gsg-url}#starting-the-instance_gsg[Starting the instance].
+For more information, see xref:starting-the-instance.adoc[].
 * A working {openshift} CLI ([command]`oc`) command.
-For more information, see link:{crc-gsg-url}#accessing-the-openshift-cluster-with-oc_gsg[Accessing the {openshift} cluster with the {openshift} CLI].
+For more information, see xref:accessing-the-openshift-cluster-with-oc.adoc[].
 
 .Procedure
 . Check which user is logged in to the cluster:

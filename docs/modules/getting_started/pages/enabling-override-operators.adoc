@@ -5,7 +5,7 @@ These services can be enabled by manually removing the desired Operator from the
 
 .Prerequisites
 * A running {prod} virtual machine and a working [command]`oc` command.
-For more information, see link:{crc-gsg-url}#accessing-the-openshift-cluster-with-oc_gsg[Accessing the OpenShift cluster with `oc`].
+For more information, see xref:accessing-the-openshift-cluster-with-oc.adoc[].
 * You must log in through [command]`oc` as the `kubeadmin` user.
 
 .Procedure

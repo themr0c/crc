@@ -29,7 +29,7 @@ Depending on the desired container runtime, {prod} requires the following system
 ====
 The {ocp} and {ushift} presets require these minimum resources to run in the {prod} instance.
 Some workloads might require more resources.
-To assign more resources to the {prod} instance, see link:{crc-gsg-url}#configuring-the-instance_gsg[Configuring the instance].
+To assign more resources to the {prod} instance, see xref:configuring-the-instance.adoc[].
 ====
 
 == Operating system requirements
@@ -52,4 +52,6 @@ To assign more resources to the {prod} instance, see link:{crc-gsg-url}#configur
 * On Linux, {prod} is supported only on the latest two {rhel}/{centos} 8 and 9 minor releases and on the latest two stable {fed} releases.
 * When using {rhel}, the machine running {prod} must be link:https://access.redhat.com/solutions/253273[registered with the Red Hat Customer Portal].
 * {ubuntu} 18.04 LTS or later and {debian} 10 or later are not supported and might require manual set up of the host machine.
-* See link:{crc-gsg-url}#required-software-packages_gsg[Required software packages] to install the required packages for your Linux distribution.
+
+
+include::partial$ref_required-software-packages.adoc[leveloffset=+2]

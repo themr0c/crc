@@ -1,0 +1,3 @@
+= Accessing the {openshift} cluster
+
+Access the {ocp} cluster running in the {prod} instance by using the {ocp} web console or {openshift} CLI ([command]`oc`).

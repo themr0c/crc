@@ -7,9 +7,9 @@ This procedure deploys a sample application to the {ocp} cluster running in the 
 * You have installed [command]`odo`.
 For more information, see link:{odo-docs-url-installing}[Installing `odo`] in the [command]`odo` documentation.
 * {prod} is configured to use the {openshift} preset.
-For more information, see link:{crc-gsg-url}#changing-the-selected-preset_gsg[Changing the selected preset].
+For more information, seexref:changing-the-selected-preset.adoc[].
 * The {prod} instance is running.
-For more information, see link:{crc-gsg-url}#starting-the-instance_gsg[Starting the instance].
+For more information, see xref:starting-the-instance.adoc[].
 
 .Procedure
 . Log in to the running {ocp} cluster managed by {prod} as the `developer` user:

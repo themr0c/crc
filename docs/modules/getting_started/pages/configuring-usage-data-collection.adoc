@@ -1,4 +1,8 @@
+[id="configuring-usage-data-collection"]
 = Configuring usage data collection
+
+{prod} prompts you before use for optional, anonymous usage data collection to assist with development.
+No personally identifiable information is collected.
 
 Consent for usage data collection can be granted or revoked by you at any time using the following configuration commands.
 

@@ -9,7 +9,7 @@ Direct access to the {ocp} cluster is not needed for regular use and is strongly
 
 .Prerequisites
 * Enable {openshift} CLI ([command]`oc`) access to the cluster and log in as the `kubeadmin` user.
-For detailed steps, see link:{crc-gsg-url}#accessing-the-openshift-cluster-with-oc_gsg[Accessing the {openshift} cluster with the {openshift} CLI].
+For detailed steps, see xref:accessing-the-openshift-cluster-with-oc.adoc[]].
 
 .Procedure
 . Run the [command]`oc get nodes` command to identify the desired node.

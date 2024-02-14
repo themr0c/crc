@@ -1,6 +1,5 @@
 :description: Troubleshooting {prod}
 
-[id="troubleshooting_{context}"]
 = Troubleshooting {rh-prod}
 
 [NOTE]
@@ -10,10 +9,3 @@ Issues occurring during installation or usage of specific {openshift} applicatio
 Report such issues to the relevant project.
 ====
 
-include::partial$proc_getting-shell-access-to-the-openshift-cluster.adoc[leveloffset=+1]
-
-include::partial$proc_troubleshooting-expired-certificates.adoc[leveloffset=+1]
-
-include::partial$proc_troubleshooting-bundle-version-mismatch.adoc[leveloffset=+1]
-
-include::partial$proc_troubleshooting-unknown-issues.adoc[leveloffset=+1]

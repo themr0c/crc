@@ -30,4 +30,4 @@ $ {bin} setup
 
 [role="_additional-resources"]
 .Additional resources
-* For more information about the available container runtime presets, see link:{crc-gsg-url}#about-presets_gsg[About presets].
+* For more information about the available container runtime presets, see xref:using.adoc[].

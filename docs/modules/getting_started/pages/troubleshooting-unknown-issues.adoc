@@ -5,12 +5,12 @@ This involves stopping the instance, deleting it, reverting changes made by the 
 
 .Prerequisites
 * You set up the host machine with the [command]`{bin} setup` command.
-For more information, see link:{crc-gsg-url}#setting-up_gsg[Setting up {prod}].
+For more information, see xref:setting-up.adoc[].
 * You started {prod} with the [command]`{bin} start` command.
-For more information, see link:{crc-gsg-url}#starting-the-instance_gsg[Starting the instance].
+For more information, see xref:starting-the-instance.adoc[].
 * You are using the latest {prod} release.
 Using a version earlier than {prod} 1.2.0 might result in errors related to expired x509 certificates.
-For more information, see link:{crc-gsg-url}#troubleshooting-expired-certificates_gsg[Troubleshooting expired certificates].
+For more information, see xref:troubleshooting-expired-certificates.adoc[].
 
 .Procedure
 To troubleshoot {prod}, perform the following steps:

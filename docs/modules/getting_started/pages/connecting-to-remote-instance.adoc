@@ -12,7 +12,7 @@ Run every command in this procedure on the client.
 
 .Prerequisites
 * A remote server is set up for the client to connect to.
-For more information, see link:{crc-gsg-url}#setting-up-remote-server_gsg[Setting up {prod} on a remote server].
+For more information, see xref:setting-up-remote-server.adoc[].
 * You know the external IP address of the server.
 * You have the link:{oc-download-url}[latest {openshift} CLI ([command]`oc`)] in your `$PATH` on the client.
 

@@ -4,9 +4,9 @@ Access the {ocp} cluster managed by {prod} by using the {openshift} CLI ([comman
 
 .Prerequisites
 * {prod} is configured to use the {openshift} preset.
-For more information, see link:{crc-gsg-url}#changing-the-selected-preset_gsg[Changing the selected preset].
+For more information, see xref:changing-the-selected-preset.adoc[].
 * A running {prod} instance.
-For more information, see link:{crc-gsg-url}#starting-the-instance_gsg[Starting the instance].
+For more information, see xref:starting-the-instance.adoc[].
 
 .Procedure
 . Run the [command]`{bin} oc-env` command to print the command needed to add the cached [command]`oc` executable to your `$PATH`:
@@ -47,7 +47,7 @@ $ oc get co
 {prod} disables the Cluster Monitoring Operator by default.
 ====
 
-See link:{crc-gsg-url}#troubleshooting_gsg[Troubleshooting {prod}] if you cannot access the {ocp} cluster managed by {prod}.
+See xref:troubleshooting.adoc[] if you cannot access the {ocp} cluster managed by {prod}.
 
 .Additional resources
 * The link:https://docs.openshift.com/container-platform/latest/applications/projects/working-with-projects.html[{ocp} documentation] covers the creation of projects and applications.

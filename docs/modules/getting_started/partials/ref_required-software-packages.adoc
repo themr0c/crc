@@ -1,3 +1,5 @@
+:description: {prod} requires packages to run on Linux.
+
 = Required software packages for Linux
 
 {prod} requires the `libvirt` and `NetworkManager` packages to run on Linux.
